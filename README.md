@@ -1,10 +1,11 @@
+<div align="center"><h1>Hello visitor! 👋</h1></div>
 <div id="cat" align="center">
- <img src="https://i.giphy.com/media/HCkbgKLdLWq3OCV8YM/giphy.webp" width="400"/>
+ <img src="https://media2.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b7611bda74c9edca0f9d76075a1b601c89273c33f3311&rid=giphy.gif&ct=g" width="400"/>
 </div>
 
-## About me
+## 👤 About me
 
-<div id="tuni" align="left">
+<div id="tuni">
   I'm an Information Technology student at Tampere University
   <img src="PK_symbols__tuni.png" width="30"/>
 </div>
