@@ -1,16 +1,17 @@
-### Hi there 👋
+﻿## About me
+I'm an Information Technology student at Tampere University
 
-<!--
-**Aarons9090/Aarons9090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What do I want?
+ - 🎓 New learning opportunities
+ - ✨ New skills
+ - 💻 New projects
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
-Here are some ideas to get you started:
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="aaron-hirvi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fi.linkedin.com/in/aaron-hirvi?trk=profile-badge">Aaron Hirvi</a></div>
+              
+### Current projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - [FullStack Open 2022](https://fullstackopen.com/about)
+ - Full Stack Project with [MERN-stack](https://www.educative.io/edpresso/what-is-mern-stack)
+
+
