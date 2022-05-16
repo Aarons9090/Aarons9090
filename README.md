@@ -6,8 +6,7 @@
 
 <div id="tuni" align="left">
   I'm an Information Technology student at Tampere University
-  <img src="logo_TAU_2line_eng_purple_RGB.png" width="20"/>
-
+  <img src="PK_symbols__tuni.png" width="30"/>
 </div>
 
 ### What do I want?
