@@ -29,4 +29,4 @@
 
 [![linkedin](icons8-linkedin-circled.gif)](https://www.linkedin.com/in/aaron-hirvi/)
 
-[<img alt="alt_text" width="40px" src="icons8-linkedin-circled.gif" />]([https://www.google.com/](https://www.linkedin.com/in/aaron-hirvi/)
+[<img alt="alt_text" width="40px" src="icons8-linkedin-circled.gif" />](https://www.linkedin.com/in/aaron-hirvi/)
