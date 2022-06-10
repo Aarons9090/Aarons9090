@@ -21,12 +21,5 @@
  - Full Stack Project with [MERN-stack](https://www.educative.io/edpresso/what-is-mern-stack)
 
 ### Check me out in here!
-<div id="linkedin" align="left">
- <a href="https://www.linkedin.com/in/aaron-hirvi/">
-  <img src="icons8-linkedin-circled.gif" width="100"/>
- </a>
-</div>
 
-[![linkedin](icons8-linkedin-circled.gif)](https://www.linkedin.com/in/aaron-hirvi/)
-
-[<img alt="alt_text" width="40px" src="linkedin_icon.png" />](https://www.linkedin.com/in/aaron-hirvi/)
+[<img alt="alt_text" width="70px" src="linkedin_icon.png" />](https://www.linkedin.com/in/aaron-hirvi/)
