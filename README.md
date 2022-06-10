@@ -26,3 +26,5 @@
   <img src="icons8-linkedin-circled.gif" width="100"/>
  </a>
 </div>
+
+[![linkedin](icons8-linkedin-circled.gif)](https://www.linkedin.com/in/aaron-hirvi/)
