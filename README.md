@@ -17,8 +17,8 @@
 
 ### Current projects
 
- - [FullStack Open 2022](https://fullstackopen.com/about)
- - Full Stack Project with [MERN-stack](https://www.educative.io/edpresso/what-is-mern-stack)
+ - ✅[FullStack Open 2022](https://fullstackopen.com/about)
+ - ⌛Full Stack Project with [MERN-stack](https://www.educative.io/edpresso/what-is-mern-stack)
 
 ### Check me out in here!
 
