@@ -18,7 +18,7 @@
 ### Current projects
 
  - ✅[FullStack Open 2022](https://fullstackopen.com/about)
- - ⌛Full Stack Project with [MERN-stack](https://www.educative.io/edpresso/what-is-mern-stack)
+ - ⌛ [Full Stack Project with MERN-stack](https://github.com/Aarons9090/apartment-sale-fullstack-project)
 
 ### Check me out in here!
 
