@@ -4,9 +4,10 @@
 </div>
 
 
+<div align="center">
+
 ![](https://komarev.com/ghpvc/?username=Aarons9090)
 
-(since 18.11.2022)
 ## 👤 About me
 
 <div id="tuni">
@@ -15,16 +16,18 @@
 </div>
 
 ### What do I want?
- - 🎓 New learning opportunities
- - ✨ New skills
- - 💻 New projects
+🎓 New learning opportunities
+<br/>
+ ✨ New skills
+ <br/>
+ 💻 New projects
 
-### Current projects
+### Current goals
 
- - ✅[FullStack Open 2022](https://fullstackopen.com/about)
- - ⌛ [Full Stack Project with MERN-stack](https://github.com/Aarons9090/apartment-sale-fullstack-project)
+Finish Master's studies while working on my own projects
 
 ### Check me out in here!
 
 [<img alt="alt_text" width="70px" src="linkedin_icon.png" />](https://www.linkedin.com/in/aaron-hirvi/)
 
+</div>
