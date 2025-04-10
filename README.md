@@ -11,8 +11,7 @@
 ## 👤 About me
 
 <div id="tuni">
-  I'm an Information Technology student at Tampere University
-  <img src="PK_symbols__tuni.png" width="30"/>
+  I'm an IT Consultant currently based in Helsinki
 </div>
 
 ### What do I want?
@@ -21,10 +20,6 @@
  ✨ New skills
  <br/>
  💻 New projects
-
-### Current goals
-
-Finish Master's studies while working on my own projects
 
 ### Check me out in here!
 
